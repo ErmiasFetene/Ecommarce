@@ -1,8 +1,9 @@
 import { useState } from 'react'
 
-import NavBar from './Componts/NavBar'
+
 import Home from './Pages/home'
 import Rigstration from './Componts/Rigstration'
+import NavBar from './Componts/Navbar'
 
 
 
@@ -11,7 +12,7 @@ function App() {
 
   return ( 
     <>
-    < NavBar/>
+    <NavBar/>
     <Home/>
     <Rigstration/>
     </>
