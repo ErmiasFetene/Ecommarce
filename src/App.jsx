@@ -1,9 +1,10 @@
 import { useState } from 'react'
 
 
-import Home from './Pages/home'
+ 
 import Rigstration from './Componts/Rigstration'
 import NavBar from './Componts/Navbar'
+import Home from './Pages/home'
 
 
 
